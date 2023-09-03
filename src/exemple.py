@@ -4,7 +4,10 @@ import nltk
 
 
 
-
+def preprocessing():
+    """
+    Preprocessing funtion of a given input
+    """
 def main():
     """
     Main function to execute differents others methods of functions
